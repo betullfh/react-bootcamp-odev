@@ -1,0 +1,27 @@
+.blogs
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    background-color:rgb(246, 176, 240);
+    padding: 10px;
+}
+
+.sorting
+{
+    background: transparent;
+    border: none;
+    outline: none;
+    font-size: 15px;
+}
+
+.sorting-div
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin-top: 10px;
+}
